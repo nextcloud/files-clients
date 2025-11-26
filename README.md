@@ -14,7 +14,7 @@ This repository primarily serves as a place to create tickets for tasks that spa
 - [Web](https://github.com/nextcloud/server)
 - [Neon](https://github.com/nextcloud/neon)
 
-### Main Files-related libraries:
+### Main libraries:
 
 - **Android:**
   - [Android Library](https://github.com/nextcloud/android-library)
